@@ -1,6 +1,6 @@
 ### introduction
 'wx_token'
-A simple and easy node for getting wechat token including gloabal token and with no extra dependencies.
+A simple and easy node for getting wechat token including gloabal token and oauth one with no extra dependencies.
 
 
 ### usage
@@ -15,7 +15,7 @@ A simple and easy node for getting wechat token including gloabal token and with
    var gtoken=getGtoken();
 ```javascript
 
-** fn2:get oath token(got by code)
+** fn2:get oauth token(got by code)
 ```javascript
    var token=oauth_token();
 ```javascript
