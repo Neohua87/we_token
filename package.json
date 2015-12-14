@@ -1,5 +1,5 @@
 {
-  "name": "com.wufan.util.wechat-getoken",
+  "name": "com.wufan.util.wechat-gettoken",
   "version": "1.0.0",
   "description": "a node.js package for getting wechat token easily",
   "main": "index.js",
